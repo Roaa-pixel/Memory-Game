@@ -1,7 +1,8 @@
 # Getting Started with Create React App
 
 ## Available Scripts
-
+### `npm install`
+The file does not have node_modules required to run project so please run npm install to install dependencies required
 In the project directory, you can run:
 
 ### `npm start`
